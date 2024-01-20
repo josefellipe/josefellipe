@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hey! I'm José Fellipe
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**josefellipe/josefellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Developing software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp; Studying System Analisys and Development at University Uniamericas.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Development.
+
+
+<h3>🛠 Back-end Stack</h3>
+
+- 💻 &nbsp; Python | SQLAlchemy | Postgresql | MySQL | Docker | Redis | Microservices
+
+- 🌐 &nbsp; FastApi | Flask
+
+
+<h3>🛠 Learning</h3>
+
+- 🔧 &nbsp; AWS | RabbitMQ | Clean Architecture
+
+<div align="center">
+  <a href="https://github.com/josefellipe">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefellipe&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+<div style="display: inline_block"><br>
+</div>
+ 
