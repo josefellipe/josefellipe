@@ -12,14 +12,14 @@
 
 <h3>🛠 Back-end Stack</h3>
 
-- 💻 &nbsp; Python | SQLAlchemy | Postgresql | MySQL | Docker | Redis | Microservices
+- 💻 &nbsp; Python | SQLAlchemy | Postgresql | MySQL | Docker | RabbitMQ | Microservices
 
-- 🌐 &nbsp; FastApi | Flask
+- 🌐 &nbsp; FastApi | Django
 
 
 <h3>🛠 Learning</h3>
 
-- 🔧 &nbsp; AWS | RabbitMQ | Clean Architecture
+- 🔧 &nbsp; AWS | GCP | CI/CD | Clean Architecture
 
 <div align="center">
   <a href="https://github.com/josefellipe">
